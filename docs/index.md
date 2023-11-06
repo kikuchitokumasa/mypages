@@ -3,7 +3,7 @@
 
 [マルハン](./maruhan.md)
 ***
-[ジョイサウンド](./maruha.md)
+[ジョイサウンド](./docs/maruha.md)
 ***
-[ラウンドワン](./maruha.md)
+[ラウンドワン](./docs/maruha.md)
 ***
